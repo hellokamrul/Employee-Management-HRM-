@@ -1,0 +1,17 @@
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.BusinessLogic\bin\Debug\net8.0\Employee.Management.BusinessLogic.deps.json
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.BusinessLogic\bin\Debug\net8.0\Employee.Management.BusinessLogic.dll
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.BusinessLogic\bin\Debug\net8.0\Employee.Management.BusinessLogic.pdb
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.BusinessLogic\bin\Debug\net8.0\Employee.Management.Core.dll
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.BusinessLogic\bin\Debug\net8.0\Employee.Management.DataAccess.dll
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.BusinessLogic\bin\Debug\net8.0\Employee.Management.DataAccess.pdb
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.BusinessLogic\bin\Debug\net8.0\Employee.Management.Core.pdb
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.BusinessLogic\obj\Debug\net8.0\Employee.Management.BusinessLogic.csproj.AssemblyReference.cache
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.BusinessLogic\obj\Debug\net8.0\Employee.Management.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.BusinessLogic\obj\Debug\net8.0\Employee.Management.BusinessLogic.AssemblyInfoInputs.cache
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.BusinessLogic\obj\Debug\net8.0\Employee.Management.BusinessLogic.AssemblyInfo.cs
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.BusinessLogic\obj\Debug\net8.0\Employee.Management.BusinessLogic.csproj.CoreCompileInputs.cache
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.BusinessLogic\obj\Debug\net8.0\Employee.03636B7D.Up2Date
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.BusinessLogic\obj\Debug\net8.0\Employee.Management.BusinessLogic.dll
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.BusinessLogic\obj\Debug\net8.0\refint\Employee.Management.BusinessLogic.dll
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.BusinessLogic\obj\Debug\net8.0\Employee.Management.BusinessLogic.pdb
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.BusinessLogic\obj\Debug\net8.0\ref\Employee.Management.BusinessLogic.dll

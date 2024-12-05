@@ -1,0 +1,15 @@
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.DataAccess\bin\Debug\net8.0\Employee.Management.DataAccess.deps.json
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.DataAccess\bin\Debug\net8.0\Employee.Management.DataAccess.dll
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.DataAccess\bin\Debug\net8.0\Employee.Management.DataAccess.pdb
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.DataAccess\bin\Debug\net8.0\Employee.Management.Core.dll
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.DataAccess\bin\Debug\net8.0\Employee.Management.Core.pdb
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.DataAccess\obj\Debug\net8.0\Employee.Management.DataAccess.csproj.AssemblyReference.cache
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.DataAccess\obj\Debug\net8.0\Employee.Management.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.DataAccess\obj\Debug\net8.0\Employee.Management.DataAccess.AssemblyInfoInputs.cache
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.DataAccess\obj\Debug\net8.0\Employee.Management.DataAccess.AssemblyInfo.cs
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.DataAccess\obj\Debug\net8.0\Employee.Management.DataAccess.csproj.CoreCompileInputs.cache
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.DataAccess\obj\Debug\net8.0\Employee.157D32D0.Up2Date
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.DataAccess\obj\Debug\net8.0\Employee.Management.DataAccess.dll
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.DataAccess\obj\Debug\net8.0\refint\Employee.Management.DataAccess.dll
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.DataAccess\obj\Debug\net8.0\Employee.Management.DataAccess.pdb
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.DataAccess\obj\Debug\net8.0\ref\Employee.Management.DataAccess.dll

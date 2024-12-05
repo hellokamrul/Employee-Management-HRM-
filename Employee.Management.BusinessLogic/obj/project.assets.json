@@ -1,0 +1,115 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Employee.Management.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Employee.Management.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Employee.Management.Core.dll": {}
+        }
+      },
+      "Employee.Management.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Employee.Management.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Employee.Management.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Employee.Management.DataAccess.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Employee.Management.Core/1.0.0": {
+      "type": "project",
+      "path": "../Employee.Management.Core/Employee.Management.Core.csproj",
+      "msbuildProject": "../Employee.Management.Core/Employee.Management.Core.csproj"
+    },
+    "Employee.Management.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../Employee.Management.DataAccess/Employee.Management.DataAccess.csproj",
+      "msbuildProject": "../Employee.Management.DataAccess/Employee.Management.DataAccess.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Employee.Management.DataAccess >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Personal Projects\\Employee Management\\Employee.Management\\Employee.Management.BusinessLogic\\Employee.Management.BusinessLogic.csproj",
+      "projectName": "Employee.Management.BusinessLogic",
+      "projectPath": "E:\\Personal Projects\\Employee Management\\Employee.Management\\Employee.Management.BusinessLogic\\Employee.Management.BusinessLogic.csproj",
+      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+      "outputPath": "E:\\Personal Projects\\Employee Management\\Employee.Management\\Employee.Management.BusinessLogic\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "E:\\Personal Projects\\Employee Management\\Employee.Management\\Employee.Management.DataAccess\\Employee.Management.DataAccess.csproj": {
+              "projectPath": "E:\\Personal Projects\\Employee Management\\Employee.Management\\Employee.Management.DataAccess\\Employee.Management.DataAccess.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

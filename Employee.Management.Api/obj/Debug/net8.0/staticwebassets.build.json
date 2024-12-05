@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ww8r6eyCLYsrb22zFivGCvkreCTLKI0ZcYnjP4OUPfg=",
+  "Source": "Employee.Management.Api",
+  "BasePath": "_content/Employee.Management.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

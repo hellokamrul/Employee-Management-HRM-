@@ -1,0 +1,11 @@
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.Core\bin\Debug\net8.0\Employee.Management.Core.deps.json
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.Core\bin\Debug\net8.0\Employee.Management.Core.dll
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.Core\bin\Debug\net8.0\Employee.Management.Core.pdb
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.Core\obj\Debug\net8.0\Employee.Management.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.Core\obj\Debug\net8.0\Employee.Management.Core.AssemblyInfoInputs.cache
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.Core\obj\Debug\net8.0\Employee.Management.Core.AssemblyInfo.cs
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.Core\obj\Debug\net8.0\Employee.Management.Core.csproj.CoreCompileInputs.cache
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.Core\obj\Debug\net8.0\Employee.Management.Core.dll
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.Core\obj\Debug\net8.0\refint\Employee.Management.Core.dll
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.Core\obj\Debug\net8.0\Employee.Management.Core.pdb
+E:\Personal Projects\Employee Management\Employee.Management\Employee.Management.Core\obj\Debug\net8.0\ref\Employee.Management.Core.dll
